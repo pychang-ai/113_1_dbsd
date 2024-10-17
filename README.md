@@ -7,7 +7,7 @@ my name =
 
 ctrl + `
 
-## basic
+## basic dd_new_feature
 
 git status
 git add .
