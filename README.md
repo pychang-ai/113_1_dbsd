@@ -1,5 +1,7 @@
 # 113_1_dbs ^_^
 
+Make an git respository for this course
+
 my sid = 1111
 my name =
 
