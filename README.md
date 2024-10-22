@@ -4,9 +4,11 @@ my sid = 1111
 my name =
 
 ## terminal
+
 ```
 ctrl + `
 ```
+
 ## basic dd_new_feature
 
 ```
@@ -17,10 +19,15 @@ git push
 git pull
 ```
 
-## advanent for test
+## advanced for test
 
+```
 git log
-git branch
+git branch # list all branches
 git stash
-git checkout
-d
+git stash list # list all stash 
+git stash apply stash@{} # switch into desire stash
+git checkout # switch into desire branch
+git branch [create a new branch]
+git branch -d [remove_targe_branch]
+```
