@@ -33,3 +33,9 @@ git checkout # switch into desire branch
 git branch [create a new branch]
 git branch -d [remove_targe_branch]
 ```
+## W07
+
+## W09
+
+## W17 Final (1/2)
+## W18 Final (1/2)
