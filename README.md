@@ -2,7 +2,7 @@
 
 Make an git respository for this course
 
-my sid = 1111
+my sid = 1111 2024_1024
 my name =
 
 ## terminal
